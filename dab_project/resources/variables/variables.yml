@@ -1,0 +1,4 @@
+variables:
+  catalog_name:
+    description: Provide name of the catalog where to store or retrieve data.
+    default: assetbundles
